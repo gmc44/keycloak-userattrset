@@ -82,13 +82,13 @@ public class UserAttrSetAuthenticatorFactory
     @Override
     public String getDisplayType()
     {
-        return "Condition - User Attr Check";
+        return "User Attr Set";
     }
 
     @Override
     public String getHelpText()
     {
-        return "Condition - User Attr Check";
+        return "User Attr Set";
     }
 
     @Override
